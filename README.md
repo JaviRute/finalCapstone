@@ -8,4 +8,4 @@ Attached are the files for an older Capstone Project, containing a website of my
 
 Any of the html files should be ready to open on your browser.
 
-![portfolio](portfolio.jpg}
+
